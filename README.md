@@ -1,6 +1,6 @@
 # AI Memory Layer for Invoice Automation
 
-**Author:** Deependra Dukiya  
+**Author:** Bhumika Kunwar Hada 
 **Role:** AI Agent Intern Assignment  
 
 ---
